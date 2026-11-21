@@ -1,5 +1,7 @@
 # Financial Operations Analytics: E-commerce Revenue & Churn
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Production-green)
 
